@@ -1,0 +1,1 @@
+Fully functional website, even with completely integrated sessions.
